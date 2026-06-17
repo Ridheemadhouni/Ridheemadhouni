@@ -18,6 +18,7 @@ Email Me 👉 ✉️ **ridhimadhoni6@gmail.com** For Collaboration/Project or An
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Ridheemadhouni&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Ridheemadhouni&theme=dark&hide_border=false)<br/>
