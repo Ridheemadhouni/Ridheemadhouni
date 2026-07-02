@@ -10,7 +10,7 @@
 * 📫 **Reach Me:** **[ridhimadhoni6@gmail.com](mailto:ridhimadhoni6@gmail.com)**
 * 😄 **Pronouns:** Ridheema
 * ⚡ **Fun Fact:** *I believe consistency and practice are the keys to success in programming.*
-
+* **portfolio:-** **<a herf="https://ridheema.netlify.app/" target="_blank">https://ridheema.netlify.app/</a>**
 ---
 
 ## 🌐 Socials
