@@ -59,8 +59,7 @@
 
 **Data Science & Manipulation**
 <p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+
   <img src="https://img.shields.io/badge/DSA-Problem_Solving-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA"/>
 </p>
 
